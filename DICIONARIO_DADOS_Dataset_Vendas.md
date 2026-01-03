@@ -2,7 +2,7 @@
 
 Documentação completa do modelo semântico Power BI com todas as tabelas, colunas, relacionamentos e medidas DAX.
 
-## 📋 Índice
+##  Índice
 
 1. [Estrutura Geral](#estrutura-geral)
 2. [Tabelas de Dimensão](#tabelas-de-dimensão)
