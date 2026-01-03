@@ -2,10 +2,10 @@
 
 Repositório contendo a documentação completa do modelo Power BI **Dataset_Vendas_2023_2025** com:
 
-- 📊 9 tabelas (7 dimensões + 1 tabela fatos + 1 tabela de medidas)
-- 📈 32 medidas DAX organizadas em 5 pastas por complexidade
-- 📋 Dicionário de dados completo com descrições e fórmulas
-- 🗂️ Estrutura TMDL para controle de versão
+-  9 tabelas (7 dimensões + 1 tabela fatos + 1 tabela de medidas)
+-  32 medidas DAX organizadas em 5 pastas por complexidade
+-  Dicionário de dados completo com descrições e fórmulas
+-  Estrutura TMDL para controle de versão
 
 ## Estrutura do Repositório
 
